@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "483175706656",
+    "project_id": "elmoktser",
+    "storage_bucket": "elmoktser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483175706656:android:892e7246c2556ce7f94c45",
+        "android_client_info": {
+          "package_name": "com.mokhtser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483175706656-hq8idc81ncghkalpjludjb1kup3t7ji4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mokhtser",
+            "certificate_hash": "41ac98142c088c3c0be9673de717cb518292f37c"
+          }
+        },
+        {
+          "client_id": "483175706656-aueg70ed4d7ll0q9pnuo17tsrrg4sp4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxJxvBNxPx8YMFLe4mn63lhsfIcOXNMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483175706656-aueg70ed4d7ll0q9pnuo17tsrrg4sp4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
